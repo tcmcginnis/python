@@ -1,0 +1,23 @@
+#!/usr/bin/python3
+"""
+this is a comment
+"""
+spam = "That is Alice's cat."
+# print "asdasd \n"
+# print "aaa:",spam
+# print "a",spam[3]
+# print spam.upper()
+# print spam[3:]
+linein = raw_input()
+print "a",linein
+# print "a",linein.lower()
+# print('How are you?')
+# feeling = raw_input()
+
+# if feeling.lower() == 'great':
+    # print('I feel great too.')
+# else:
+    # print('I hope the rest of your day is good.')
+    # print('I hope the rest of your day is good.')
+# print('I good.')
+
