@@ -1,7 +1,5 @@
 #!/usr/bin/env python3
-import sys
-import subprocess
-import time
+import sys, subprocess, time
 pyscript = [sys.executable, 'pytest.py']
 subprocess.call(pyscript)
 time.sleep(3)
@@ -11,5 +9,5 @@ while (a == 0):
    subprocess.call(pyscript)
    c = c+1
    print('iteration:',c)
-   time.sleep(3)
+   time.sleep(7)
 

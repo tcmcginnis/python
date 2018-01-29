@@ -2,7 +2,7 @@
 # #!/usr/bin/python3
 import sys,os,subprocess
 
-for i in range(30):
+for i in range(3):
    print(i+1)
 
 quit()
