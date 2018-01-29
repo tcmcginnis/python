@@ -1,4 +1,5 @@
-#!/usr/bin/python3
+#!/opt/app-root/bin/python3
+# #!/usr/bin/python3
 import sys,os,subprocess
 
 for i in range(30):
